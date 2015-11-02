@@ -1,0 +1,6 @@
+78 path=sr/frontend/views/site/PaxHeader/=рчтрэш  Ёхушіэіт.txt
+20 ctime=1444290421
+20 atime=1444290421
+18 SCHILY.dev=123
+24 SCHILY.ino=128329410
+18 SCHILY.nlink=1

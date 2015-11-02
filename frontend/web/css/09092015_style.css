@@ -1,0 +1,505 @@
+@import "http://webfonts.ru/import/robotonew.css";
+
+/* Eric Meyer's CSS Reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* End of Eric Meyer's CSS Reset */
+
+html {
+	height: 100%;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+	display: block;
+}
+body {
+	font: 14px Tahoma, sans-serif;
+	width: 100%;
+	height: 100%;
+	    line-height: 1.25;
+}
+.wrapper {
+	width: 1000px;
+	margin: 0 auto;
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+}
+
+
+/* Header
+-----------------------------------------------------------------------------*/
+.header {
+	height: 50px;
+	background: #FFF;
+}
+
+
+/* Middle
+-----------------------------------------------------------------------------*/
+.middle {
+	width: 100%;
+	padding: 0 0 350px;
+	position: relative;
+}
+.middle:after {
+	display: table;
+	clear: both;
+	content: '';
+}
+.contain {
+	width: 100%;
+	float: left;
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+.content {
+	padding: 0 320px 0 0;
+}
+
+
+/* Footer
+-----------------------------------------------------------------------------*/
+.footer {
+	width: 1000px;
+	margin: -300px auto 0;
+	height: 300px;
+	background-color: #f5f5f5;
+	padding: 5px 5px 5px 5px;
+	position: relative;	
+	border-style: solid none none;
+  	border-color: rgb(34, 34, 34);
+  	border-top-width: 1px;
+  	border-right-width: 0;
+  	border-bottom-width: 0;
+  	border-left-width: 0;
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	box-sizing: border-box;
+
+}
+
+
+
+/* Name for block's
+-----------------------------------------------------------------------------*/
+ .name-block {
+    float: left;
+    line-height: 30px;
+	width: 90%;	
+	height: 30px;
+	font-family: 'Roboto New';
+	font-size: 20px;
+	font-weight: 400;
+	text-shadow: 1px 1px 2px rgba(149,149,149,1);	
+	border-style: none none dotted;
+  	border-color: rgb(34, 34, 34);
+  	border-top-width: 0;
+  	border-right-width: 0;
+  	border-bottom-width: 1px;
+  	border-left-width: 0;
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	box-sizing: border-box;
+
+ }
+
+/* Logo block
+-----------------------------------------------------------------------------*/
+  .logo-block {  	
+  	float: left;
+	width: 700px;
+	height: 150px;	
+	position	: relative;
+  }
+
+  .logo {
+    float: left;
+	width: 150px;	
+	height: 150px;	
+   }
+
+  .name-logo {	
+  	float: left;  	
+	position	: relative;
+  	width: 550px;
+	height: 150px;
+	white-space: nowrap;
+	text-align: center;
+  }
+
+  .namesr {
+  	position:relative;  	
+  	top:50%; 	
+  	height:75px; 
+  	margin-top:-37.5px;
+	font-family: 'Roboto New';
+	font-size: 16px;
+	font-weight: 900;
+	text-transform: uppercase;
+	line-height: 1.5em;
+	letter-spacing: 0.12em;
+	color: #fff;
+	text-shadow: black 1px 0px,
+				 black 1px 1px, 
+				 black 0px 1px, 
+				 black -1px 1px, 
+				 black -1px 0px, 
+				 black -1px -1px, 
+				 black 0px -1px, 
+				 black 1px -1px;  	
+  }
+
+  .blue {
+  	color: #33ccff; 
+  }
+
+  .red {
+  	color: #fc4c4c;
+  }
+
+  .selebriti {  	
+	float: left;	
+	height: 150px;
+	width: 300px;
+	margin-left: -300px;
+	position: relative;
+	background-color: #FFF;
+	border: 0px solid #999999;
+	border-style: dotted;
+    display: table;
+  }
+
+  .sele-img {  	
+    float: left;
+	width: 145px;	
+	height: 145px;	
+    text-align: center;
+ 	display: table-cell;
+ 	vertical-align: middle;
+ }
+
+  .sele-img img { 	
+  	width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+ }
+
+  .sele-text {
+ 	display: table-cell;
+ 	vertical-align: middle;
+ 	text-align: center;
+ }
+
+  .sele-date {
+  	position: absolute;
+  	top: 0px;
+  	right: 0px;
+  	width: 35%;
+  	text-align: right;
+	font-family: 'Roboto New';
+	font-size: 16px;
+	line-height: 1.25;
+	font-weight: 900;	
+	border-style: none none dotted;
+  	border-color: rgb(34, 34, 34);
+  	border-top-width: 0;
+  	border-right-width: 0;
+  	border-bottom-width: 1px;
+  	border-left-width: 0;
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	box-sizing: border-box; 
+  }
+
+  .selebriti p {  	
+	font-family: 'Roboto New';
+	font-size: 15px;
+	line-height: 1.25;
+	font-weight: 300;  	
+  }
+
+
+/* News block
+-----------------------------------------------------------------------------*/
+
+ .news-mero {
+ 	width: 700px;
+ }
+
+ .news {
+ 	position: relative;
+ 	width: 350px;
+ 	min-height: 350px;
+ 	height: 350px;
+ 	float: left; 	
+	padding: 5px 5px 5px 5px;
+ }
+
+  .news-img { 	
+    float: left;
+	width: 340px;
+	height: 200px;		
+	padding: 5px 0px 0px 0px;
+ }
+
+  .news-img img { 	
+  	width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+ }
+  .news-text {
+    float: left;
+	width: 340px;
+	height: 95px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-family: 'Roboto New';
+	font-size: 13px;
+	font-weight: 400;
+	font-style: italic;
+ }
+
+  .news-text h1 {
+    color: #000000;	
+    font-family: 'Roboto New';
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	margin-bottom: 5px;
+    text-decoration: none;
+ }
+
+   .news-text a, a:hover {
+    color: #000000;	
+ }
+
+  .news-date {
+    position: absolute;
+    bottom: 0px;
+    left: 5px;
+    font-family: 'Roboto New';
+	font-size: 10px;
+	font-weight: 500;
+	font-style: normal;
+ }
+
+  .news-all {     	
+    position: absolute;
+    bottom: 0px;
+    right: 5px;
+    font-family: 'Roboto New';
+	font-size: 12px;
+	font-weight: 480;
+	font-style: normal;
+	text-decoration: underline;
+ }
+   .news-all a, a:hover {
+    color: #000000;	
+ }
+
+ .mero {
+ 	position: relative;
+ 	width: 350px; 	
+ 	min-height: 350px;
+ 	height: 350px; 	
+ 	float: left;
+	padding: 5px 5px 5px 5px; 	
+ }
+
+ .mero-img { 	
+    float: left;
+	width: 340px;
+	height: 200px;		
+	padding: 5px 0px 0px 0px;
+ }
+
+  .mero-img img { 	
+  	width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+ }
+  .mero-text {
+    float: left;
+	width: 340px;
+	height: 95px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-family: 'Roboto New';
+	font-size: 13px;
+	font-weight: 400;
+	font-style: italic;
+ }
+
+  .mero-text h1 {
+    color: #000000;	
+	max-height: 40px;
+    font-family: 'Roboto New';
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	margin-bottom: 5px;
+    text-decoration: none;
+	overflow: hidden;
+	text-overflow: ellipsis;
+ }
+
+   .mero-text a, a:hover {
+    color: #000000;	
+ }
+
+  .mero-date {
+    position: absolute;
+    bottom: 0px;
+    left: 5px;
+    font-family: 'Roboto New';
+	font-size: 10px;
+	font-weight: 500;
+	font-style: normal;
+ }
+
+  .mero-all {     	
+    position: absolute;
+    bottom: 0px;
+    right: 5px;
+    font-family: 'Roboto New';
+	font-size: 12px;
+	font-weight: 480;
+	font-style: normal;
+	text-decoration: underline;
+ }
+   .mero-all a, a:hover {
+    color: #000000;	
+ }
+
+/* Map block
+-----------------------------------------------------------------------------*/
+
+ .map {
+ 	width: 700px;
+ 	min-height: 350px;
+ 	height: 350px; 	
+ 	float: left;
+	padding: 5px 5px 5px 5px;
+ }
+
+
+/* Right Sidebar
+-----------------------------------------------------------------------------*/
+.right-sidebar {
+	width: 300px;
+	float: left;
+	margin-left: -300px;
+	position: relative;
+}
+
+/* Gos site block
+-----------------------------------------------------------------------------*/
+ .gossite {
+	float: left;
+	width: 300px;
+	height: 350px;
+ 	min-height: 350px;
+	position: relative;
+	overflow: hidden;
+	padding: 5px 5px 5px 5px;
+ }
+
+ /* Partneri site block
+-----------------------------------------------------------------------------*/
+ .partsite {
+	float: left;
+	width: 300px;
+	height: 350px;
+ 	min-height: 350px;
+	position: relative;
+	overflow: hidden;
+	padding: 5px 5px 5px 5px;
+ }
+
+ .site { 	
+	float: left;
+	margin-bottom: 3px;
+	width: 290px;
+	height: 100px;
+	padding: 5px 5px 5px 5px;
+    /*word-spacing: 10000px;*/
+    display: table;
+ } 
+
+ .site-img { 	
+    width: 90px;
+    height: 90px;
+    text-align: center;
+ 	display: table-cell;
+ 	vertical-align: middle;
+ }
+
+  .site-img img { 	
+  	width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+ }
+
+ .site-name {
+ 	display: table-cell;
+ 	vertical-align: middle;
+ 	padding-left: 5px;
+ }
+
+ .up,.down { 	
+	position: absolute;
+	width: 290px; 
+	text-align: center;
+	bottom: 0px;
+	cursor: pointer;
+	display: block;
+ }
+
+ .up {
+ 	display: none;
+ }

@@ -1,0 +1,7 @@
+21 hdrcharset=BINARY
+64 path=sr/frontend/views/site/PaxHeader/=азвани€€ регионов.txt
+20 ctime=1444659063
+20 atime=1444659058
+18 SCHILY.dev=123
+24 SCHILY.ino=240612421
+18 SCHILY.nlink=1

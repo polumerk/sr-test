@@ -1,0 +1,8 @@
+21 hdrcharset=BINARY
+53 path=sr/frontend/views/site/Названия регионов.txt
+20 ctime=1443721006
+20 atime=1441902717
+38 LIBARCHIVE.creationtime=1441902717
+18 SCHILY.dev=113
+23 SCHILY.ino=14217920
+18 SCHILY.nlink=1

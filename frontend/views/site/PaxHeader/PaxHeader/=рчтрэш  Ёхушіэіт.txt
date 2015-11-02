@@ -1,0 +1,7 @@
+21 hdrcharset=BINARY
+63 path=sr/frontend/views/site/PaxHeader/=ð÷òðýø  ¨õóø³ý³ò.txt
+20 ctime=1444659063
+20 atime=1444659058
+18 SCHILY.dev=123
+24 SCHILY.ino=240612414
+18 SCHILY.nlink=1

@@ -1,0 +1,608 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pu",
+				"public"
+			],
+			[
+				"B",
+				"Behb	Yii2 - BlameableBehaviorr"
+			],
+			[
+				"Ur",
+				"Url"
+			],
+			[
+				"L",
+				"Lw	Yii2 - ListView::widget"
+			],
+			[
+				"ur",
+				"Url"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"Go",
+				"Goversite"
+			],
+			[
+				"size",
+				"sizeString"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"s",
+				"sizes"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"icon",
+				"icon_site"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fony",
+				"font-family"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"mr",
+				"margin-left"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"com",
+				"common"
+			],
+			[
+				"mys",
+				"mysql_close"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"us",
+				"usdB"
+			],
+			[
+				"rt",
+				"rtrim"
+			],
+			[
+				"do",
+				"domain"
+			],
+			[
+				"ca",
+				"category_id"
+			],
+			[
+				"categor",
+				"category_id"
+			],
+			[
+				"he",
+				"helpers"
+			],
+			[
+				"cate",
+				"category_name"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: Lw",
+				"Snippet: Yii2 - ListView::widget"
+			],
+			[
+				"Snippet: find",
+				"Snippet: Yii2 - Model find"
+			],
+			[
+				"Snippet: fole",
+				"Snippet: Yii2 - $form->field()->hiddenInput"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php … ?>"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OpenServer/domains/sr",
+		"/C/OpenServer/domains/sr/backend",
+		"/C/OpenServer/domains/sr/backend/controllers",
+		"/C/OpenServer/domains/sr/backend/messages",
+		"/C/OpenServer/domains/sr/backend/messages/ru-RU",
+		"/C/OpenServer/domains/sr/backend/views",
+		"/C/OpenServer/domains/sr/backend/views/government",
+		"/C/OpenServer/domains/sr/backend/views/holidays",
+		"/C/OpenServer/domains/sr/common",
+		"/C/OpenServer/domains/sr/common/config",
+		"/C/OpenServer/domains/sr/common/models",
+		"/C/OpenServer/domains/sr/vendor"
+	],
+	"file_history":
+	[
+		"/C/OpenServer/domains/sr/backend/messages/ru-RU/app.php",
+		"/C/OpenServer/domains/sr/backend/views/holidays/view.php",
+		"/C/OpenServer/domains/sr/backend/controllers/HolidaysController.php",
+		"/C/OpenServer/domains/sr/backend/views/holidays/index.php",
+		"/C/OpenServer/domains/sr/common/models/Holidays.php",
+		"/C/OpenServer/domains/sr/common/models/GovernmentSite.php",
+		"/C/OpenServer/domains/sr/backend/controllers/GovernmentController.php",
+		"/C/OpenServer/domains/sr/backend/views/holidays/_form.php",
+		"/C/OpenServer/domains/sr/backend/views/holidays/update.php",
+		"/C/OpenServer/domains/sr/vendor/yiisoft/yii2/web/UploadedFile.php",
+		"/C/OpenServer/domains/sr/common/config/main-local.php",
+		"/C/OpenServer/domains/sr/common/config/main.php",
+		"/C/OpenServer/domains/sr/.gitignore",
+		"/C/OpenServer/domains/sr/backend/views/layouts/main.php",
+		"/C/OpenServer/domains/sr/vendor/yiisoft/yii2/behaviors/TimestampBehavior.php",
+		"/C/OpenServer/domains/sr/backend/views/user/index.php",
+		"/C/OpenServer/domains/sr/common/models/User.php",
+		"/C/OpenServer/domains/sr/backend/views/user/view.php",
+		"/C/OpenServer/domains/sr/backend/views/user/_search.php",
+		"/C/OpenServer/domains/sr/backend/views/layouts/login.php",
+		"/C/OpenServer/domains/sr/backend/controllers/SiteController.php",
+		"/C/OpenServer/domains/sr/common/models/LoginForm.php",
+		"/C/OpenServer/domains/sr/backend/views/site/login.php",
+		"/C/OpenServer/domains/sr/backend/views/government/index.php",
+		"/C/OpenServer/domains/sr/backend/views/government/_form.php",
+		"/C/OpenServer/domains/sr/backend/config/main.php",
+		"/C/OpenServer/domains/sr/common/widgets/Alert.php",
+		"/C/OpenServer/domains/sr/vendor/developeruz/yii2-custom-errorhandler/ErrorHandler.php",
+		"/C/OpenServer/domains/sr/backend/controllers/PartnerController.php",
+		"/C/OpenServer/domains/sr/backend/views/site/index.php",
+		"/C/OpenServer/domains/sr/backend/web/css/site.css",
+		"/C/OpenServer/domains/sr/frontend/web/css/style.css",
+		"/C/OpenServer/domains/sr/frontend/views/layouts/main.php",
+		"/C/OpenServer/domains/sr/common/widgets/Partsite.php",
+		"/C/OpenServer/domains/sr/common/widgets/Goversite.php",
+		"/C/OpenServer/domains/sr/common/widgets/views/goversite.php",
+		"/C/OpenServer/domains/sr/common/widgets/views/partsite.php",
+		"/C/OpenServer/domains/sr/backend/views/partner/_form.php",
+		"/C/OpenServer/domains/sr/backend/views/partner/view.php",
+		"/C/OpenServer/domains/sr/backend/views/government/view.php",
+		"/C/OpenServer/domains/sr/backend/views/partner/create.php",
+		"/C/OpenServer/domains/sr/backend/views/government/create.php",
+		"/C/OpenServer/domains/sr/backend/views/government/update.php",
+		"/C/OpenServer/domains/sr/backend/views/partner/update.php",
+		"/C/OpenServer/domains/sr/backend/views/partner/index.php",
+		"/C/OpenServer/domains/sr/common/models/GovernmentSiteSearch.php",
+		"/C/OpenServer/domains/sr/common/models/PartnerSiteSearch.php",
+		"/C/OpenServer/domains/sr/common/models/PartnerSite.php",
+		"/C/OpenServer/domains/sr/console/migrations/m151002_124746_create_partsite_table.php",
+		"/C/OpenServer/domains/sr/vendor/yiisoft/yii2/db/ActiveRecord.php",
+		"/C/OpenServer/domains/sr/common/widgets/views/Partsite.html",
+		"/C/OpenServer/domains/sr/frontend/views/site/regions.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/ruko.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/sele.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/video.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/mero.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/news.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/obwee.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/pope.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/koor.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/kont.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/foto.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/docu.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/allnews.php",
+		"/C/OpenServer/domains/sr/sr.sublime-project",
+		"/C/OpenServer/domains/sr/frontend/views/site/index.php",
+		"/W/domains/sr/vendor/arogachev/yii2-sortable/src/grid/SortableColumn.php",
+		"/C/OpenServer/domains/sr/vendor/costa-rico/yii2-images/controllers/ImagesController.php",
+		"/C/OpenServer/domains/sr/vendor/costa-rico/yii2-images/models/Image.php",
+		"/C/OpenServer/domains/sr/vendor/abeautifulsite/simpleimage/src/abeautifulsite/SimpleImage.php",
+		"/C/OpenServer/domains/sr/vendor/yiisoft/yii2-bootstrap/Widget.php",
+		"/C/Users/zverevam/AppData/Roaming/Sublime Text 3/Packages/yii2-snippets-master/User/loginRequired.sublime-snippet",
+		"/C/Users/zverevam/AppData/Roaming/Sublime Text 3/Packages/yii2-snippets-master/User/can.sublime-snippet",
+		"/C/OpenServer/domains/sr/frontend/web/index.php",
+		"/C/OpenServer/domains/sr/vendor/yiisoft/yii2/helpers/BaseHtml.php",
+		"/C/OpenServer/domains/easy/backend/models/Categorys.php",
+		"/C/OpenServer/domains/easy/backend/controllers/CategorysController.php",
+		"/C/OpenServer/domains/sr/backend/messages/ru/yii.php",
+		"/C/OpenServer/domains/sr/vendor/yiisoft/yii2/messages/ru/yii.php",
+		"/C/OpenServer/domains/sr/common/config/params.php",
+		"/C/OpenServer/domains/sr/frontend/controllers/SiteController.php",
+		"/W/domains/sr/frontend/runtime/logs/app.log",
+		"/C/OpenServer/domains/sr/frontend/assets/AppAsset.php",
+		"/C/OpenServer/domains/fczb/frontend/config/main.php",
+		"/C/OpenServer/domains/sr/frontend/views/layouts/part.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/test.php",
+		"/C/OpenServer/domains/sr/frontend/views/site/index.html",
+		"/C/OpenServer/domains/sr/vendor/yiisoft/yii2/web/Controller.php",
+		"/C/OpenServer/domains/sr/frontend/views/layouts/gos.php",
+		"/C/OpenServer/domains/easy/frontend/controllers/SiteController.php",
+		"/W/domains/sr/frontend/web/.gitignore",
+		"/W/domains/sr/frontend/web/index.php",
+		"/W/domains/sr/frontend/web/assets/95a20276/js/bootstrap.js",
+		"/C/Users/zverevam/Downloads/sr (1).sql",
+		"/C/OpenServer/domains/sr/frontend/web/css/maps.css",
+		"/C/OpenServer/domains/sr/frontend/web/css/jqvmap.css",
+		"/C/OpenServer/domains/fczb/backend/config/main.php",
+		"/C/OpenServer/domains/fczb/backend/views/layouts/main.php",
+		"/C/OpenServer/domains/fczb/vendor/developeruz/yii2-db-rbac/behaviors/AccessBehavior.php",
+		"/C/OpenServer/domains/fczb/backend/views/site/index.php",
+		"/C/OpenServer/domains/fczb/backend/assets/AppAsset.php",
+		"/C/111/служу россии/Интерактивная карта регионов России.html",
+		"/C/OpenServer/domains/fczb/backend/controllers/PlayerDataController.php",
+		"/C/OpenServer/domains/fczb/backend/config/params.php",
+		"/C/OpenServer/domains/fczb/frontend/views/site/error.php",
+		"/C/OpenServer/domains/fczb/backend/controllers/PlayerController.php",
+		"/C/OpenServer/domains/fczb/backend/controllers/SiteController.php",
+		"/C/OpenServer/domains/fczb/common/config/main.php",
+		"/C/OpenServer/domains/fczb/backend/views/site/error.php",
+		"/C/OpenServer/domains/prig/index.html",
+		"/C/OpenServer/domains/prig/style.css",
+		"/C/OpenServer/domains/fczb/vendor/yiisoft/yii2/views/errorHandler/error.php",
+		"/C/OpenServer/domains/fczb/vendor/yiisoft/yii2/messages/ru/yii.php",
+		"/C/OpenServer/domains/fczb/backend/models/RoleSearch.php",
+		"/C/OpenServer/domains/fczb/backend/models/PlayerData.php",
+		"/C/OpenServer/domains/fczb/backend/views/player-data/index.php",
+		"/C/OpenServer/domains/fczb/backend/views/player/index.php",
+		"/C/OpenServer/domains/fczb/backend/views/player-data/view.php",
+		"/C/OpenServer/domains/fczb/backend/views/player-data/_form.php",
+		"/C/OpenServer/domains/fczb/backend/views/player-data/update.php",
+		"/C/OpenServer/domains/fczb/backend/models/PlayerDataSearch.php",
+		"/C/OpenServer/domains/fczb/common/config/params.php",
+		"/C/OpenServer/domains/fczb/backend/models/Player.php",
+		"/C/OpenServer/domains/fczb/backend/views/player/_form.php",
+		"/C/SUN3-BANKDB/SERVER/Security/KvitAvg.sql",
+		"/C/Users/zverevam/netstat.log",
+		"/C/SUN3-BANKDB/Deal32.ini",
+		"/C/kali-p583db/SERVER/Security/KvitProc.sql"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\OpenServer\\domains\\easy\\frontend\\web",
+			"C:\\OpenServer\\domains\\fczb",
+			"C:\\OpenServer\\domains\\fczb\\vendor\\yiisoft",
+			"C:\\OpenServer\\domains\\fczb\\vendor",
+			"C:\\OpenServer\\domains\\fczb"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name",
+			",'",
+			"government_site",
+			"   ",
+			"right-sidebar",
+			"\">\n",
+			"div",
+			"крым",
+			"echo",
+			"                        $",
+			"thumbnail",
+			"social",
+			"img",
+			"social",
+			"width",
+			"size",
+			"isNewRecord",
+			" \n",
+			"isNewRecord",
+			"Government Sites",
+			" ['",
+			"middle",
+			"contr",
+			"                          ",
+			"page",
+			"bootstrap.js",
+			"30px",
+			"Карта",
+			"The above error occurred while the Web",
+			"666 The above error occurred while the Web server was processing your request.",
+			"27072015",
+			"BalanceBuy",
+			"stea",
+			"role",
+			"ZeroConf",
+			"migrations",
+			"60px",
+			"0",
+			"strong",
+			"getaliass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sr.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"/yii/db/activerecord",
+				"vendor\\yiisoft\\yii2\\db\\ActiveRecord.php"
+			],
+			[
+				"/yii/bootstrap/widget",
+				"sr\\vendor\\yiisoft\\yii2-bootstrap\\Widget.php"
+			],
+			[
+				"sr/fro/vi/lay/",
+				"sr\\frontend\\views\\layouts\\main.php"
+			],
+			[
+				"sr/fro/vi/si/in",
+				"sr\\frontend\\views\\site\\index.php"
+			],
+			[
+				"sr/fro/vi/l",
+				"sr\\frontend\\views\\layouts\\main.php"
+			],
+			[
+				"sr/fro/vi/si/inde",
+				"sr\\frontend\\views\\site\\index.php"
+			],
+			[
+				"sr/fro/inde",
+				"sr\\frontend\\web\\index.php"
+			],
+			[
+				"sr/fro/sty",
+				"sr\\frontend\\web\\css\\style.css"
+			],
+			[
+				"basehtml",
+				"sr\\vendor\\yiisoft\\yii2\\helpers\\BaseHtml.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\OpenServer\\domains\\sr\\sr.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

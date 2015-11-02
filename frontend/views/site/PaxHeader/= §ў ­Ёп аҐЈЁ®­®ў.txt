@@ -1,0 +1,8 @@
+21 hdrcharset=BINARY
+53 path=sr/frontend/views/site/=ð÷òðýø  ¨õóøþýþò.txt
+20 ctime=1443721003
+20 atime=1441976238
+38 LIBARCHIVE.creationtime=1441976238
+18 SCHILY.dev=113
+23 SCHILY.ino=14217653
+18 SCHILY.nlink=1
