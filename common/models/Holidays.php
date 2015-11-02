@@ -144,6 +144,7 @@ class Holidays extends \yii\db\ActiveRecord
             $path = Yii::getAlias('@frontend/web/img/'.$this->tableName().'/') . $this->logo_holiday_file->baseName . '.' . $this->logo_holiday_file->extension;
             $this->logo_holiday_file->saveAs($path);
             if ($this->scenario==='update') {
+                
                 $this->removeImages();   
             }
             $this->attachImage($path);
